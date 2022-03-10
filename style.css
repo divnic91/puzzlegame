@@ -78,6 +78,22 @@ main {
     body {
         font-size: 10px;
     }
+    header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    }
+    header h2 {
+        font-size:18px;
+    }
+    header ul {
+        margin: 0;
+        list-style: none;
+        font-size: 14px;
+    }
+  }
   }
 
 
