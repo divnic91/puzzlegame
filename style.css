@@ -69,6 +69,7 @@ main {
 .finished {
     color: gold;
 }
+
 @media (max-width: 400px) {
     .level-1, .level-2, .level-3, .level-4, .level-5{
         width: 100%;
@@ -93,7 +94,7 @@ main {
         list-style: none;
         font-size: 14px;
     }
-  }
+  
   }
 
 
