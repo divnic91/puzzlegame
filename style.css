@@ -97,9 +97,9 @@ main {
     }
     header ul li {
         display: inline-block;
-        margin-left: 10px;
+        line-height: 2;
+        border-right: none;
         padding-right: 5px;
-        line-height: 3;
     }
   
   }
